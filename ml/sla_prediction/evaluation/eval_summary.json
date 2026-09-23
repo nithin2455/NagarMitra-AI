@@ -1,0 +1,180 @@
+{
+  "held_out_test_metrics": {
+    "accuracy": 0.8619,
+    "precision": 0.9147,
+    "recall": 0.9013,
+    "f1": 0.9079,
+    "roc_auc": 0.9199,
+    "pr_auc": 0.9748,
+    "brier_score": 0.0984,
+    "confusion_matrix": [
+      [
+        114,
+        40
+      ],
+      [
+        47,
+        429
+      ]
+    ]
+  },
+  "baselines": [
+    {
+      "Model": "Majority Classifier",
+      "Accuracy": 0.7556,
+      "Recall": 1.0,
+      "F1": 0.8608,
+      "ROC-AUC": "N/A"
+    },
+    {
+      "Model": "SLA Hours Only",
+      "Accuracy": 0.6968,
+      "Recall": 0.7584,
+      "F1": 0.7908,
+      "ROC-AUC": "N/A"
+    },
+    {
+      "Model": "Logistic Regression",
+      "Accuracy": 0.8476,
+      "Recall": 0.8382,
+      "F1": 0.8926,
+      "ROC-AUC": 0.9237
+    },
+    {
+      "Model": "Random Forest (Ours)",
+      "Accuracy": 0.8619,
+      "Recall": 0.9013,
+      "F1": 0.9079,
+      "ROC-AUC": 0.9199
+    }
+  ],
+  "threshold_analysis": [
+    {
+      "Threshold": 0.3,
+      "Accuracy": 0.7762,
+      "Precision": 0.7759,
+      "Recall (Breach)": 0.9895,
+      "F1-Score": 0.8698,
+      "FPR": 0.8831,
+      "FNR": 0.0105
+    },
+    {
+      "Threshold": 0.4,
+      "Accuracy": 0.846,
+      "Precision": 0.8738,
+      "Recall (Breach)": 0.9307,
+      "F1-Score": 0.9013,
+      "FPR": 0.4156,
+      "FNR": 0.0693
+    },
+    {
+      "Threshold": 0.5,
+      "Accuracy": 0.8619,
+      "Precision": 0.9147,
+      "Recall (Breach)": 0.9013,
+      "F1-Score": 0.9079,
+      "FPR": 0.2597,
+      "FNR": 0.0987
+    },
+    {
+      "Threshold": 0.6,
+      "Accuracy": 0.8635,
+      "Precision": 0.9333,
+      "Recall (Breach)": 0.8824,
+      "F1-Score": 0.9071,
+      "FPR": 0.1948,
+      "FNR": 0.1176
+    },
+    {
+      "Threshold": 0.7,
+      "Accuracy": 0.8397,
+      "Precision": 0.9496,
+      "Recall (Breach)": 0.8319,
+      "F1-Score": 0.8869,
+      "FPR": 0.1364,
+      "FNR": 0.1681
+    }
+  ],
+  "top_20_features": [
+    {
+      "Feature": "is_working_hours",
+      "Importance": 0.2378
+    },
+    {
+      "Feature": "hotspot_score_at_submission",
+      "Importance": 0.086
+    },
+    {
+      "Feature": "created_hour",
+      "Importance": 0.0808
+    },
+    {
+      "Feature": "density_score_at_submission",
+      "Importance": 0.0778
+    },
+    {
+      "Feature": "response_sla_hours",
+      "Importance": 0.0699
+    },
+    {
+      "Feature": "created_day_of_week",
+      "Importance": 0.0471
+    },
+    {
+      "Feature": "is_hotspot_area",
+      "Importance": 0.0382
+    },
+    {
+      "Feature": "is_weekend",
+      "Importance": 0.0321
+    },
+    {
+      "Feature": "latitude",
+      "Importance": 0.028
+    },
+    {
+      "Feature": "longitude",
+      "Importance": 0.0265
+    },
+    {
+      "Feature": "support_count_at_submission",
+      "Importance": 0.0245
+    },
+    {
+      "Feature": "master_issue_count_at_submission",
+      "Importance": 0.0202
+    },
+    {
+      "Feature": "created_month",
+      "Importance": 0.0153
+    },
+    {
+      "Feature": "department_id_DEPT_WORKS",
+      "Importance": 0.0138
+    },
+    {
+      "Feature": "word_count",
+      "Importance": 0.0134
+    },
+    {
+      "Feature": "category_id_infrastructure",
+      "Importance": 0.0128
+    },
+    {
+      "Feature": "tfidf_minor",
+      "Importance": 0.0114
+    },
+    {
+      "Feature": "tfidf_peeling",
+      "Importance": 0.0086
+    },
+    {
+      "Feature": "prob_medium",
+      "Importance": 0.0084
+    },
+    {
+      "Feature": "predicted_severity_MEDIUM",
+      "Importance": 0.0074
+    }
+  ]
+}

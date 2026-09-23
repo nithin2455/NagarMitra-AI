@@ -1,0 +1,60 @@
+{
+  "baseline_configuration": {
+    "location_radius_meters": 100.0,
+    "max_location_distance_meters": 1000.0,
+    "weights": {
+      "text": 0.3,
+      "location": 0.45,
+      "image": 0.25
+    },
+    "weights_no_image": {
+      "text": 0.45,
+      "location": 0.55,
+      "image": 0.0
+    },
+    "high_confidence_threshold": 0.75,
+    "medium_confidence_threshold": 0.5
+  },
+  "dev_split_metrics": {
+    "count": 250,
+    "true_positives": 71,
+    "true_negatives": 124,
+    "false_positives": 0,
+    "false_negatives": 55,
+    "accuracy": 0.78,
+    "precision": 1.0,
+    "recall": 0.5635,
+    "f1_score": 0.7208,
+    "false_positive_rate": 0.0,
+    "false_negative_rate": 0.4365,
+    "false_merge_rate": 0.0
+  },
+  "test_split_metrics": {
+    "count": 250,
+    "true_positives": 59,
+    "true_negatives": 126,
+    "false_positives": 0,
+    "false_negatives": 65,
+    "accuracy": 0.74,
+    "precision": 1.0,
+    "recall": 0.4758,
+    "f1_score": 0.6448,
+    "false_positive_rate": 0.0,
+    "false_negative_rate": 0.5242,
+    "false_merge_rate": 0.0
+  },
+  "overall_metrics": {
+    "count": 500,
+    "true_positives": 130,
+    "true_negatives": 250,
+    "false_positives": 0,
+    "false_negatives": 120,
+    "accuracy": 0.76,
+    "precision": 1.0,
+    "recall": 0.52,
+    "f1_score": 0.6842,
+    "false_positive_rate": 0.0,
+    "false_negative_rate": 0.48,
+    "false_merge_rate": 0.0
+  }
+}

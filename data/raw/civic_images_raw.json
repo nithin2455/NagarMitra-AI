@@ -1,0 +1,2386 @@
+{
+  "base_images": [
+    {
+      "image_id": "IMG_001",
+      "file_name": "civic_roads_001.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_roads_001.jpg",
+      "category_id": "roads",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "33503db414d7b6bf4e77088dbb06ebf9"
+    },
+    {
+      "image_id": "IMG_002",
+      "file_name": "civic_roads_002.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_roads_002.jpg",
+      "category_id": "roads",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "27445e74fb9281e51ec325be3e9dbcde"
+    },
+    {
+      "image_id": "IMG_003",
+      "file_name": "civic_roads_003.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_roads_003.jpg",
+      "category_id": "roads",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "ca7c9a4558f8645eff41c1c8b72d859c"
+    },
+    {
+      "image_id": "IMG_004",
+      "file_name": "civic_roads_004.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_roads_004.jpg",
+      "category_id": "roads",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "f05ee344518ee7c38ba4d6d5eed303b7"
+    },
+    {
+      "image_id": "IMG_005",
+      "file_name": "civic_roads_005.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_roads_005.jpg",
+      "category_id": "roads",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "db01ea8ec829061c77ae142ee6c78c4b"
+    },
+    {
+      "image_id": "IMG_006",
+      "file_name": "civic_roads_006.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_roads_006.jpg",
+      "category_id": "roads",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "d78df1fe66210a93aa97bdccaea48fef"
+    },
+    {
+      "image_id": "IMG_007",
+      "file_name": "civic_roads_007.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_roads_007.jpg",
+      "category_id": "roads",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "5d7c2e47abe68595cc59e389b487b165"
+    },
+    {
+      "image_id": "IMG_008",
+      "file_name": "civic_roads_008.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_roads_008.jpg",
+      "category_id": "roads",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "c66b2f54fdc278a3fcfa62cffdddd87c"
+    },
+    {
+      "image_id": "IMG_009",
+      "file_name": "civic_roads_009.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_roads_009.jpg",
+      "category_id": "roads",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "7e479c471c5860bbef68365ef0f83bb9"
+    },
+    {
+      "image_id": "IMG_010",
+      "file_name": "civic_roads_010.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_roads_010.jpg",
+      "category_id": "roads",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "f05bc1d102f941b41acca14139ff1f26"
+    },
+    {
+      "image_id": "IMG_011",
+      "file_name": "civic_drainage_011.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_drainage_011.jpg",
+      "category_id": "drainage",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "8b6e34a7fa02beef0f6fe4df9216cad8"
+    },
+    {
+      "image_id": "IMG_012",
+      "file_name": "civic_drainage_012.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_drainage_012.jpg",
+      "category_id": "drainage",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "ad07d1ef879f27365b2ac184caca4af7"
+    },
+    {
+      "image_id": "IMG_013",
+      "file_name": "civic_drainage_013.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_drainage_013.jpg",
+      "category_id": "drainage",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "cc4e16be12a22e0589c17b76f4f58655"
+    },
+    {
+      "image_id": "IMG_014",
+      "file_name": "civic_drainage_014.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_drainage_014.jpg",
+      "category_id": "drainage",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "aa203262cc410fa25ac64453e997136e"
+    },
+    {
+      "image_id": "IMG_015",
+      "file_name": "civic_drainage_015.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_drainage_015.jpg",
+      "category_id": "drainage",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "75d7587e6793cd4972ce2633e16b5ea6"
+    },
+    {
+      "image_id": "IMG_016",
+      "file_name": "civic_drainage_016.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_drainage_016.jpg",
+      "category_id": "drainage",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "c08c52cf99366e6ba9a0e8618a5457af"
+    },
+    {
+      "image_id": "IMG_017",
+      "file_name": "civic_drainage_017.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_drainage_017.jpg",
+      "category_id": "drainage",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "c454beac7fed328da0847a2b312c8ded"
+    },
+    {
+      "image_id": "IMG_018",
+      "file_name": "civic_drainage_018.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_drainage_018.jpg",
+      "category_id": "drainage",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "e38e8c2e8dcf63bb9d8da6052fe92516"
+    },
+    {
+      "image_id": "IMG_019",
+      "file_name": "civic_drainage_019.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_drainage_019.jpg",
+      "category_id": "drainage",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "b4c719d6bf53370186670a4f5758457f"
+    },
+    {
+      "image_id": "IMG_020",
+      "file_name": "civic_drainage_020.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_drainage_020.jpg",
+      "category_id": "drainage",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "1ddb8cd3f4feaed81f3222e54cb46212"
+    },
+    {
+      "image_id": "IMG_021",
+      "file_name": "civic_garbage_021.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_garbage_021.jpg",
+      "category_id": "garbage",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "e6d4a28ab758d99b7cf7836ef8b11d76"
+    },
+    {
+      "image_id": "IMG_022",
+      "file_name": "civic_garbage_022.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_garbage_022.jpg",
+      "category_id": "garbage",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "902b69997e62843464cc48b2f4438633"
+    },
+    {
+      "image_id": "IMG_023",
+      "file_name": "civic_garbage_023.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_garbage_023.jpg",
+      "category_id": "garbage",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "f5bc3d41bb3e3b9fb238477568a39db8"
+    },
+    {
+      "image_id": "IMG_024",
+      "file_name": "civic_garbage_024.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_garbage_024.jpg",
+      "category_id": "garbage",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "a4c3ea9bb7cd39bdd616c75bfb153502"
+    },
+    {
+      "image_id": "IMG_025",
+      "file_name": "civic_garbage_025.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_garbage_025.jpg",
+      "category_id": "garbage",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "ff3baf847ca9acf38832e516c1cdc5ed"
+    },
+    {
+      "image_id": "IMG_026",
+      "file_name": "civic_garbage_026.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_garbage_026.jpg",
+      "category_id": "garbage",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "7661e3a279d24e3c8a224fed13c4c808"
+    },
+    {
+      "image_id": "IMG_027",
+      "file_name": "civic_garbage_027.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_garbage_027.jpg",
+      "category_id": "garbage",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "0e7111a3f44607e1291efca14b20bd3f"
+    },
+    {
+      "image_id": "IMG_028",
+      "file_name": "civic_garbage_028.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_garbage_028.jpg",
+      "category_id": "garbage",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "048385d0090b63be6cf2be6939d84e9a"
+    },
+    {
+      "image_id": "IMG_029",
+      "file_name": "civic_garbage_029.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_garbage_029.jpg",
+      "category_id": "garbage",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "e8599f51847a3e8cbda43a01f081443e"
+    },
+    {
+      "image_id": "IMG_030",
+      "file_name": "civic_garbage_030.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_garbage_030.jpg",
+      "category_id": "garbage",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "16f9ba56d205410112ef934fb885d0f8"
+    },
+    {
+      "image_id": "IMG_031",
+      "file_name": "civic_water_031.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_water_031.jpg",
+      "category_id": "water",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "bdc3dbbdd608d9471a26ca64778de243"
+    },
+    {
+      "image_id": "IMG_032",
+      "file_name": "civic_water_032.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_water_032.jpg",
+      "category_id": "water",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "c4f13acaa152fe40c1cc907080df0973"
+    },
+    {
+      "image_id": "IMG_033",
+      "file_name": "civic_water_033.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_water_033.jpg",
+      "category_id": "water",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "750bcb62f76a897680e0eb7f15e38d4e"
+    },
+    {
+      "image_id": "IMG_034",
+      "file_name": "civic_water_034.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_water_034.jpg",
+      "category_id": "water",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "03ad58a99c75210a2f58bfd9e65643b2"
+    },
+    {
+      "image_id": "IMG_035",
+      "file_name": "civic_water_035.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_water_035.jpg",
+      "category_id": "water",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "e798e3d5c44b1974170d4a481449021e"
+    },
+    {
+      "image_id": "IMG_036",
+      "file_name": "civic_water_036.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_water_036.jpg",
+      "category_id": "water",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "d44be20c414dc1b8e76363b5ad8b664e"
+    },
+    {
+      "image_id": "IMG_037",
+      "file_name": "civic_water_037.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_water_037.jpg",
+      "category_id": "water",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "91d666ccb426c94da0b96e8f017b8f6e"
+    },
+    {
+      "image_id": "IMG_038",
+      "file_name": "civic_water_038.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_water_038.jpg",
+      "category_id": "water",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "0c7c133931ad427fdf4a5175155a7584"
+    },
+    {
+      "image_id": "IMG_039",
+      "file_name": "civic_water_039.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_water_039.jpg",
+      "category_id": "water",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "cde07446bf523935323c7403f8e43d2b"
+    },
+    {
+      "image_id": "IMG_040",
+      "file_name": "civic_water_040.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_water_040.jpg",
+      "category_id": "water",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "7ca3b3765347c5fe4ab77b567eba67c7"
+    },
+    {
+      "image_id": "IMG_041",
+      "file_name": "civic_streetlights_041.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_streetlights_041.jpg",
+      "category_id": "streetlights",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "dfdcac4b2af210291d7f6ada7a38515e"
+    },
+    {
+      "image_id": "IMG_042",
+      "file_name": "civic_streetlights_042.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_streetlights_042.jpg",
+      "category_id": "streetlights",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "bc8b0a07434f0f76351a131e190c5203"
+    },
+    {
+      "image_id": "IMG_043",
+      "file_name": "civic_streetlights_043.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_streetlights_043.jpg",
+      "category_id": "streetlights",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "ca57e44e9fc0cffc25aba7d935264f9e"
+    },
+    {
+      "image_id": "IMG_044",
+      "file_name": "civic_streetlights_044.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_streetlights_044.jpg",
+      "category_id": "streetlights",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "538e04dfff83db02464d9cea15040772"
+    },
+    {
+      "image_id": "IMG_045",
+      "file_name": "civic_streetlights_045.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_streetlights_045.jpg",
+      "category_id": "streetlights",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "b96f68109907b5bdfd487a3af4d814b3"
+    },
+    {
+      "image_id": "IMG_046",
+      "file_name": "civic_streetlights_046.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_streetlights_046.jpg",
+      "category_id": "streetlights",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "e4726cef55894c7e9a75651e9baf9b99"
+    },
+    {
+      "image_id": "IMG_047",
+      "file_name": "civic_streetlights_047.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_streetlights_047.jpg",
+      "category_id": "streetlights",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "bd897c92f33151ddf94ff48cc606b021"
+    },
+    {
+      "image_id": "IMG_048",
+      "file_name": "civic_streetlights_048.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_streetlights_048.jpg",
+      "category_id": "streetlights",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "20deb68415a64d21d63c69bcdef126f9"
+    },
+    {
+      "image_id": "IMG_049",
+      "file_name": "civic_streetlights_049.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_streetlights_049.jpg",
+      "category_id": "streetlights",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "a6f4b6c6b360e2ad85f1573b21931abe"
+    },
+    {
+      "image_id": "IMG_050",
+      "file_name": "civic_streetlights_050.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_streetlights_050.jpg",
+      "category_id": "streetlights",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "ab2b9552a88b8bf89dff81e37934a443"
+    },
+    {
+      "image_id": "IMG_051",
+      "file_name": "civic_infrastructure_051.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_infrastructure_051.jpg",
+      "category_id": "infrastructure",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "5610dea5506980535aaebc50e4160769"
+    },
+    {
+      "image_id": "IMG_052",
+      "file_name": "civic_infrastructure_052.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_infrastructure_052.jpg",
+      "category_id": "infrastructure",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "7670e27dcc6bdd134b686c736fab28e1"
+    },
+    {
+      "image_id": "IMG_053",
+      "file_name": "civic_infrastructure_053.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_infrastructure_053.jpg",
+      "category_id": "infrastructure",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "5c9e94d57d8b9cccc37901fd15f0a0d1"
+    },
+    {
+      "image_id": "IMG_054",
+      "file_name": "civic_infrastructure_054.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_infrastructure_054.jpg",
+      "category_id": "infrastructure",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "adf5249c4aad8f52b65352b7d53fb894"
+    },
+    {
+      "image_id": "IMG_055",
+      "file_name": "civic_infrastructure_055.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_infrastructure_055.jpg",
+      "category_id": "infrastructure",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "49c48ae96f65ae87f767ee0d6bb9fcc5"
+    },
+    {
+      "image_id": "IMG_056",
+      "file_name": "civic_infrastructure_056.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_infrastructure_056.jpg",
+      "category_id": "infrastructure",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "addd13c693dad4c7c1aaa4bd760071fe"
+    },
+    {
+      "image_id": "IMG_057",
+      "file_name": "civic_infrastructure_057.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_infrastructure_057.jpg",
+      "category_id": "infrastructure",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "bdc91d093b1634908b7e791d3e825f45"
+    },
+    {
+      "image_id": "IMG_058",
+      "file_name": "civic_infrastructure_058.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_infrastructure_058.jpg",
+      "category_id": "infrastructure",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "586455fe91117c74e33d8217289955c3"
+    },
+    {
+      "image_id": "IMG_059",
+      "file_name": "civic_infrastructure_059.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_infrastructure_059.jpg",
+      "category_id": "infrastructure",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "5d3b78e3365bf38ef4ef90d50d6262c6"
+    },
+    {
+      "image_id": "IMG_060",
+      "file_name": "civic_infrastructure_060.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_infrastructure_060.jpg",
+      "category_id": "infrastructure",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "b23554bdff36f63774fad0b5824e5e51"
+    },
+    {
+      "image_id": "IMG_061",
+      "file_name": "civic_other_061.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_other_061.jpg",
+      "category_id": "other",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "aff7c7be6dc928611899e6c481b1e52c"
+    },
+    {
+      "image_id": "IMG_062",
+      "file_name": "civic_other_062.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_other_062.jpg",
+      "category_id": "other",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "28c61763833bbc1dce75545349349953"
+    },
+    {
+      "image_id": "IMG_063",
+      "file_name": "civic_other_063.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_other_063.jpg",
+      "category_id": "other",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "7153afe3d558a14fc0ad82e096ba5314"
+    },
+    {
+      "image_id": "IMG_064",
+      "file_name": "civic_other_064.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_other_064.jpg",
+      "category_id": "other",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "2c76d00804088f4cccb4d55237906d26"
+    },
+    {
+      "image_id": "IMG_065",
+      "file_name": "civic_other_065.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_other_065.jpg",
+      "category_id": "other",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "8372ddcd3e477499de93ecbe4ff5429e"
+    },
+    {
+      "image_id": "IMG_066",
+      "file_name": "civic_other_066.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_other_066.jpg",
+      "category_id": "other",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "d405e2d65a6cb44d5481970bdc2df0b9"
+    },
+    {
+      "image_id": "IMG_067",
+      "file_name": "civic_other_067.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_other_067.jpg",
+      "category_id": "other",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "99233f3f300235e468486390bc17c843"
+    },
+    {
+      "image_id": "IMG_068",
+      "file_name": "civic_other_068.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_other_068.jpg",
+      "category_id": "other",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "ca8c0c81f9c6de021c2c2fda41dddf20"
+    },
+    {
+      "image_id": "IMG_069",
+      "file_name": "civic_other_069.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_other_069.jpg",
+      "category_id": "other",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "add5e976fcfd43497364345312c81f83"
+    },
+    {
+      "image_id": "IMG_070",
+      "file_name": "civic_other_070.jpg",
+      "file_path": "C:\\Users\\nithi\\OneDrive\\Documents\\Smart-Grievance-System\\data\\raw\\images\\civic_other_070.jpg",
+      "category_id": "other",
+      "width": 400,
+      "height": 300,
+      "format": "JPEG",
+      "md5": "aaf6854b35f0ee53e8728c07a2065d5a"
+    }
+  ],
+  "image_pairs": [
+    {
+      "pair_id": "PAIR_0001",
+      "image_a": "civic_roads_001.jpg",
+      "image_b": "civic_roads_001.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0002",
+      "image_a": "civic_roads_001.jpg",
+      "image_b": "trans_civic_roads_001.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0003",
+      "image_a": "civic_roads_001.jpg",
+      "image_b": "civic_roads_006.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0004",
+      "image_a": "civic_roads_002.jpg",
+      "image_b": "civic_roads_002.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0005",
+      "image_a": "civic_roads_002.jpg",
+      "image_b": "trans_civic_roads_002.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0006",
+      "image_a": "civic_roads_002.jpg",
+      "image_b": "civic_roads_007.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0007",
+      "image_a": "civic_roads_003.jpg",
+      "image_b": "civic_roads_003.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0008",
+      "image_a": "civic_roads_003.jpg",
+      "image_b": "trans_civic_roads_003.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0009",
+      "image_a": "civic_roads_003.jpg",
+      "image_b": "civic_roads_008.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0010",
+      "image_a": "civic_roads_004.jpg",
+      "image_b": "civic_roads_004.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0011",
+      "image_a": "civic_roads_004.jpg",
+      "image_b": "trans_civic_roads_004.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0012",
+      "image_a": "civic_roads_004.jpg",
+      "image_b": "civic_roads_009.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0013",
+      "image_a": "civic_roads_005.jpg",
+      "image_b": "civic_roads_005.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0014",
+      "image_a": "civic_roads_005.jpg",
+      "image_b": "trans_civic_roads_005.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0015",
+      "image_a": "civic_roads_005.jpg",
+      "image_b": "civic_roads_010.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0016",
+      "image_a": "civic_roads_006.jpg",
+      "image_b": "civic_roads_006.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0017",
+      "image_a": "civic_roads_006.jpg",
+      "image_b": "trans_civic_roads_006.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0018",
+      "image_a": "civic_roads_006.jpg",
+      "image_b": "civic_drainage_011.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0019",
+      "image_a": "civic_roads_007.jpg",
+      "image_b": "civic_roads_007.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0020",
+      "image_a": "civic_roads_007.jpg",
+      "image_b": "trans_civic_roads_007.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0021",
+      "image_a": "civic_roads_007.jpg",
+      "image_b": "civic_drainage_012.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0022",
+      "image_a": "civic_roads_008.jpg",
+      "image_b": "civic_roads_008.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0023",
+      "image_a": "civic_roads_008.jpg",
+      "image_b": "trans_civic_roads_008.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0024",
+      "image_a": "civic_roads_008.jpg",
+      "image_b": "civic_drainage_013.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0025",
+      "image_a": "civic_roads_009.jpg",
+      "image_b": "civic_roads_009.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0026",
+      "image_a": "civic_roads_009.jpg",
+      "image_b": "trans_civic_roads_009.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0027",
+      "image_a": "civic_roads_009.jpg",
+      "image_b": "civic_drainage_014.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0028",
+      "image_a": "civic_roads_010.jpg",
+      "image_b": "civic_roads_010.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0029",
+      "image_a": "civic_roads_010.jpg",
+      "image_b": "trans_civic_roads_010.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0030",
+      "image_a": "civic_roads_010.jpg",
+      "image_b": "civic_drainage_015.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0031",
+      "image_a": "civic_drainage_011.jpg",
+      "image_b": "civic_drainage_011.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0032",
+      "image_a": "civic_drainage_011.jpg",
+      "image_b": "trans_civic_drainage_011.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0033",
+      "image_a": "civic_drainage_011.jpg",
+      "image_b": "civic_drainage_016.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0034",
+      "image_a": "civic_drainage_012.jpg",
+      "image_b": "civic_drainage_012.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0035",
+      "image_a": "civic_drainage_012.jpg",
+      "image_b": "trans_civic_drainage_012.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0036",
+      "image_a": "civic_drainage_012.jpg",
+      "image_b": "civic_drainage_017.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0037",
+      "image_a": "civic_drainage_013.jpg",
+      "image_b": "civic_drainage_013.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0038",
+      "image_a": "civic_drainage_013.jpg",
+      "image_b": "trans_civic_drainage_013.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0039",
+      "image_a": "civic_drainage_013.jpg",
+      "image_b": "civic_drainage_018.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0040",
+      "image_a": "civic_drainage_014.jpg",
+      "image_b": "civic_drainage_014.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0041",
+      "image_a": "civic_drainage_014.jpg",
+      "image_b": "trans_civic_drainage_014.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0042",
+      "image_a": "civic_drainage_014.jpg",
+      "image_b": "civic_drainage_019.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0043",
+      "image_a": "civic_drainage_015.jpg",
+      "image_b": "civic_drainage_015.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0044",
+      "image_a": "civic_drainage_015.jpg",
+      "image_b": "trans_civic_drainage_015.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0045",
+      "image_a": "civic_drainage_015.jpg",
+      "image_b": "civic_drainage_020.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0046",
+      "image_a": "civic_drainage_016.jpg",
+      "image_b": "civic_drainage_016.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0047",
+      "image_a": "civic_drainage_016.jpg",
+      "image_b": "trans_civic_drainage_016.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0048",
+      "image_a": "civic_drainage_016.jpg",
+      "image_b": "civic_garbage_021.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0049",
+      "image_a": "civic_drainage_017.jpg",
+      "image_b": "civic_drainage_017.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0050",
+      "image_a": "civic_drainage_017.jpg",
+      "image_b": "trans_civic_drainage_017.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0051",
+      "image_a": "civic_drainage_017.jpg",
+      "image_b": "civic_garbage_022.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0052",
+      "image_a": "civic_drainage_018.jpg",
+      "image_b": "civic_drainage_018.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0053",
+      "image_a": "civic_drainage_018.jpg",
+      "image_b": "trans_civic_drainage_018.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0054",
+      "image_a": "civic_drainage_018.jpg",
+      "image_b": "civic_garbage_023.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0055",
+      "image_a": "civic_drainage_019.jpg",
+      "image_b": "civic_drainage_019.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0056",
+      "image_a": "civic_drainage_019.jpg",
+      "image_b": "trans_civic_drainage_019.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0057",
+      "image_a": "civic_drainage_019.jpg",
+      "image_b": "civic_garbage_024.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0058",
+      "image_a": "civic_drainage_020.jpg",
+      "image_b": "civic_drainage_020.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0059",
+      "image_a": "civic_drainage_020.jpg",
+      "image_b": "trans_civic_drainage_020.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0060",
+      "image_a": "civic_drainage_020.jpg",
+      "image_b": "civic_garbage_025.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0061",
+      "image_a": "civic_garbage_021.jpg",
+      "image_b": "civic_garbage_021.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0062",
+      "image_a": "civic_garbage_021.jpg",
+      "image_b": "trans_civic_garbage_021.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0063",
+      "image_a": "civic_garbage_021.jpg",
+      "image_b": "civic_garbage_026.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0064",
+      "image_a": "civic_garbage_022.jpg",
+      "image_b": "civic_garbage_022.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0065",
+      "image_a": "civic_garbage_022.jpg",
+      "image_b": "trans_civic_garbage_022.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0066",
+      "image_a": "civic_garbage_022.jpg",
+      "image_b": "civic_garbage_027.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0067",
+      "image_a": "civic_garbage_023.jpg",
+      "image_b": "civic_garbage_023.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0068",
+      "image_a": "civic_garbage_023.jpg",
+      "image_b": "trans_civic_garbage_023.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0069",
+      "image_a": "civic_garbage_023.jpg",
+      "image_b": "civic_garbage_028.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0070",
+      "image_a": "civic_garbage_024.jpg",
+      "image_b": "civic_garbage_024.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0071",
+      "image_a": "civic_garbage_024.jpg",
+      "image_b": "trans_civic_garbage_024.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0072",
+      "image_a": "civic_garbage_024.jpg",
+      "image_b": "civic_garbage_029.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0073",
+      "image_a": "civic_garbage_025.jpg",
+      "image_b": "civic_garbage_025.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0074",
+      "image_a": "civic_garbage_025.jpg",
+      "image_b": "trans_civic_garbage_025.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0075",
+      "image_a": "civic_garbage_025.jpg",
+      "image_b": "civic_garbage_030.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0076",
+      "image_a": "civic_garbage_026.jpg",
+      "image_b": "civic_garbage_026.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0077",
+      "image_a": "civic_garbage_026.jpg",
+      "image_b": "trans_civic_garbage_026.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0078",
+      "image_a": "civic_garbage_026.jpg",
+      "image_b": "civic_water_031.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0079",
+      "image_a": "civic_garbage_027.jpg",
+      "image_b": "civic_garbage_027.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0080",
+      "image_a": "civic_garbage_027.jpg",
+      "image_b": "trans_civic_garbage_027.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0081",
+      "image_a": "civic_garbage_027.jpg",
+      "image_b": "civic_water_032.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0082",
+      "image_a": "civic_garbage_028.jpg",
+      "image_b": "civic_garbage_028.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0083",
+      "image_a": "civic_garbage_028.jpg",
+      "image_b": "trans_civic_garbage_028.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0084",
+      "image_a": "civic_garbage_028.jpg",
+      "image_b": "civic_water_033.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0085",
+      "image_a": "civic_garbage_029.jpg",
+      "image_b": "civic_garbage_029.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0086",
+      "image_a": "civic_garbage_029.jpg",
+      "image_b": "trans_civic_garbage_029.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0087",
+      "image_a": "civic_garbage_029.jpg",
+      "image_b": "civic_water_034.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0088",
+      "image_a": "civic_garbage_030.jpg",
+      "image_b": "civic_garbage_030.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0089",
+      "image_a": "civic_garbage_030.jpg",
+      "image_b": "trans_civic_garbage_030.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0090",
+      "image_a": "civic_garbage_030.jpg",
+      "image_b": "civic_water_035.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0091",
+      "image_a": "civic_water_031.jpg",
+      "image_b": "civic_water_031.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0092",
+      "image_a": "civic_water_031.jpg",
+      "image_b": "trans_civic_water_031.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0093",
+      "image_a": "civic_water_031.jpg",
+      "image_b": "civic_water_036.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0094",
+      "image_a": "civic_water_032.jpg",
+      "image_b": "civic_water_032.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0095",
+      "image_a": "civic_water_032.jpg",
+      "image_b": "trans_civic_water_032.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0096",
+      "image_a": "civic_water_032.jpg",
+      "image_b": "civic_water_037.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0097",
+      "image_a": "civic_water_033.jpg",
+      "image_b": "civic_water_033.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0098",
+      "image_a": "civic_water_033.jpg",
+      "image_b": "trans_civic_water_033.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0099",
+      "image_a": "civic_water_033.jpg",
+      "image_b": "civic_water_038.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0100",
+      "image_a": "civic_water_034.jpg",
+      "image_b": "civic_water_034.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0101",
+      "image_a": "civic_water_034.jpg",
+      "image_b": "trans_civic_water_034.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0102",
+      "image_a": "civic_water_034.jpg",
+      "image_b": "civic_water_039.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0103",
+      "image_a": "civic_water_035.jpg",
+      "image_b": "civic_water_035.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0104",
+      "image_a": "civic_water_035.jpg",
+      "image_b": "trans_civic_water_035.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0105",
+      "image_a": "civic_water_035.jpg",
+      "image_b": "civic_water_040.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0106",
+      "image_a": "civic_water_036.jpg",
+      "image_b": "civic_water_036.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0107",
+      "image_a": "civic_water_036.jpg",
+      "image_b": "trans_civic_water_036.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0108",
+      "image_a": "civic_water_036.jpg",
+      "image_b": "civic_streetlights_041.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0109",
+      "image_a": "civic_water_037.jpg",
+      "image_b": "civic_water_037.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0110",
+      "image_a": "civic_water_037.jpg",
+      "image_b": "trans_civic_water_037.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0111",
+      "image_a": "civic_water_037.jpg",
+      "image_b": "civic_streetlights_042.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0112",
+      "image_a": "civic_water_038.jpg",
+      "image_b": "civic_water_038.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0113",
+      "image_a": "civic_water_038.jpg",
+      "image_b": "trans_civic_water_038.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0114",
+      "image_a": "civic_water_038.jpg",
+      "image_b": "civic_streetlights_043.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0115",
+      "image_a": "civic_water_039.jpg",
+      "image_b": "civic_water_039.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0116",
+      "image_a": "civic_water_039.jpg",
+      "image_b": "trans_civic_water_039.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0117",
+      "image_a": "civic_water_039.jpg",
+      "image_b": "civic_streetlights_044.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0118",
+      "image_a": "civic_water_040.jpg",
+      "image_b": "civic_water_040.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0119",
+      "image_a": "civic_water_040.jpg",
+      "image_b": "trans_civic_water_040.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0120",
+      "image_a": "civic_water_040.jpg",
+      "image_b": "civic_streetlights_045.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0121",
+      "image_a": "civic_streetlights_041.jpg",
+      "image_b": "civic_streetlights_041.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0122",
+      "image_a": "civic_streetlights_041.jpg",
+      "image_b": "trans_civic_streetlights_041.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0123",
+      "image_a": "civic_streetlights_041.jpg",
+      "image_b": "civic_streetlights_046.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0124",
+      "image_a": "civic_streetlights_042.jpg",
+      "image_b": "civic_streetlights_042.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0125",
+      "image_a": "civic_streetlights_042.jpg",
+      "image_b": "trans_civic_streetlights_042.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0126",
+      "image_a": "civic_streetlights_042.jpg",
+      "image_b": "civic_streetlights_047.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0127",
+      "image_a": "civic_streetlights_043.jpg",
+      "image_b": "civic_streetlights_043.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0128",
+      "image_a": "civic_streetlights_043.jpg",
+      "image_b": "trans_civic_streetlights_043.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0129",
+      "image_a": "civic_streetlights_043.jpg",
+      "image_b": "civic_streetlights_048.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0130",
+      "image_a": "civic_streetlights_044.jpg",
+      "image_b": "civic_streetlights_044.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0131",
+      "image_a": "civic_streetlights_044.jpg",
+      "image_b": "trans_civic_streetlights_044.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0132",
+      "image_a": "civic_streetlights_044.jpg",
+      "image_b": "civic_streetlights_049.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0133",
+      "image_a": "civic_streetlights_045.jpg",
+      "image_b": "civic_streetlights_045.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0134",
+      "image_a": "civic_streetlights_045.jpg",
+      "image_b": "trans_civic_streetlights_045.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0135",
+      "image_a": "civic_streetlights_045.jpg",
+      "image_b": "civic_streetlights_050.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0136",
+      "image_a": "civic_streetlights_046.jpg",
+      "image_b": "civic_streetlights_046.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0137",
+      "image_a": "civic_streetlights_046.jpg",
+      "image_b": "trans_civic_streetlights_046.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0138",
+      "image_a": "civic_streetlights_046.jpg",
+      "image_b": "civic_infrastructure_051.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0139",
+      "image_a": "civic_streetlights_047.jpg",
+      "image_b": "civic_streetlights_047.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0140",
+      "image_a": "civic_streetlights_047.jpg",
+      "image_b": "trans_civic_streetlights_047.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0141",
+      "image_a": "civic_streetlights_047.jpg",
+      "image_b": "civic_infrastructure_052.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0142",
+      "image_a": "civic_streetlights_048.jpg",
+      "image_b": "civic_streetlights_048.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0143",
+      "image_a": "civic_streetlights_048.jpg",
+      "image_b": "trans_civic_streetlights_048.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0144",
+      "image_a": "civic_streetlights_048.jpg",
+      "image_b": "civic_infrastructure_053.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0145",
+      "image_a": "civic_streetlights_049.jpg",
+      "image_b": "civic_streetlights_049.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0146",
+      "image_a": "civic_streetlights_049.jpg",
+      "image_b": "trans_civic_streetlights_049.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0147",
+      "image_a": "civic_streetlights_049.jpg",
+      "image_b": "civic_infrastructure_054.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0148",
+      "image_a": "civic_streetlights_050.jpg",
+      "image_b": "civic_streetlights_050.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0149",
+      "image_a": "civic_streetlights_050.jpg",
+      "image_b": "trans_civic_streetlights_050.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0150",
+      "image_a": "civic_streetlights_050.jpg",
+      "image_b": "civic_infrastructure_055.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0151",
+      "image_a": "civic_infrastructure_051.jpg",
+      "image_b": "civic_infrastructure_051.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0152",
+      "image_a": "civic_infrastructure_051.jpg",
+      "image_b": "trans_civic_infrastructure_051.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0153",
+      "image_a": "civic_infrastructure_051.jpg",
+      "image_b": "civic_infrastructure_056.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0154",
+      "image_a": "civic_infrastructure_052.jpg",
+      "image_b": "civic_infrastructure_052.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0155",
+      "image_a": "civic_infrastructure_052.jpg",
+      "image_b": "trans_civic_infrastructure_052.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0156",
+      "image_a": "civic_infrastructure_052.jpg",
+      "image_b": "civic_infrastructure_057.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0157",
+      "image_a": "civic_infrastructure_053.jpg",
+      "image_b": "civic_infrastructure_053.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0158",
+      "image_a": "civic_infrastructure_053.jpg",
+      "image_b": "trans_civic_infrastructure_053.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0159",
+      "image_a": "civic_infrastructure_053.jpg",
+      "image_b": "civic_infrastructure_058.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0160",
+      "image_a": "civic_infrastructure_054.jpg",
+      "image_b": "civic_infrastructure_054.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0161",
+      "image_a": "civic_infrastructure_054.jpg",
+      "image_b": "trans_civic_infrastructure_054.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0162",
+      "image_a": "civic_infrastructure_054.jpg",
+      "image_b": "civic_infrastructure_059.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0163",
+      "image_a": "civic_infrastructure_055.jpg",
+      "image_b": "civic_infrastructure_055.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0164",
+      "image_a": "civic_infrastructure_055.jpg",
+      "image_b": "trans_civic_infrastructure_055.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0165",
+      "image_a": "civic_infrastructure_055.jpg",
+      "image_b": "civic_infrastructure_060.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0166",
+      "image_a": "civic_infrastructure_056.jpg",
+      "image_b": "civic_infrastructure_056.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0167",
+      "image_a": "civic_infrastructure_056.jpg",
+      "image_b": "trans_civic_infrastructure_056.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0168",
+      "image_a": "civic_infrastructure_056.jpg",
+      "image_b": "civic_other_061.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0169",
+      "image_a": "civic_infrastructure_057.jpg",
+      "image_b": "civic_infrastructure_057.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0170",
+      "image_a": "civic_infrastructure_057.jpg",
+      "image_b": "trans_civic_infrastructure_057.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0171",
+      "image_a": "civic_infrastructure_057.jpg",
+      "image_b": "civic_other_062.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0172",
+      "image_a": "civic_infrastructure_058.jpg",
+      "image_b": "civic_infrastructure_058.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0173",
+      "image_a": "civic_infrastructure_058.jpg",
+      "image_b": "trans_civic_infrastructure_058.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0174",
+      "image_a": "civic_infrastructure_058.jpg",
+      "image_b": "civic_other_063.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0175",
+      "image_a": "civic_infrastructure_059.jpg",
+      "image_b": "civic_infrastructure_059.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0176",
+      "image_a": "civic_infrastructure_059.jpg",
+      "image_b": "trans_civic_infrastructure_059.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0177",
+      "image_a": "civic_infrastructure_059.jpg",
+      "image_b": "civic_other_064.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0178",
+      "image_a": "civic_infrastructure_060.jpg",
+      "image_b": "civic_infrastructure_060.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0179",
+      "image_a": "civic_infrastructure_060.jpg",
+      "image_b": "trans_civic_infrastructure_060.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0180",
+      "image_a": "civic_infrastructure_060.jpg",
+      "image_b": "civic_other_065.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0181",
+      "image_a": "civic_other_061.jpg",
+      "image_b": "civic_other_061.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0182",
+      "image_a": "civic_other_061.jpg",
+      "image_b": "trans_civic_other_061.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0183",
+      "image_a": "civic_other_061.jpg",
+      "image_b": "civic_other_066.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0184",
+      "image_a": "civic_other_062.jpg",
+      "image_b": "civic_other_062.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0185",
+      "image_a": "civic_other_062.jpg",
+      "image_b": "trans_civic_other_062.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0186",
+      "image_a": "civic_other_062.jpg",
+      "image_b": "civic_other_067.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0187",
+      "image_a": "civic_other_063.jpg",
+      "image_b": "civic_other_063.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0188",
+      "image_a": "civic_other_063.jpg",
+      "image_b": "trans_civic_other_063.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0189",
+      "image_a": "civic_other_063.jpg",
+      "image_b": "civic_other_068.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0190",
+      "image_a": "civic_other_064.jpg",
+      "image_b": "civic_other_064.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0191",
+      "image_a": "civic_other_064.jpg",
+      "image_b": "trans_civic_other_064.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0192",
+      "image_a": "civic_other_064.jpg",
+      "image_b": "civic_other_069.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0193",
+      "image_a": "civic_other_065.jpg",
+      "image_b": "civic_other_065.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0194",
+      "image_a": "civic_other_065.jpg",
+      "image_b": "trans_civic_other_065.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0195",
+      "image_a": "civic_other_065.jpg",
+      "image_b": "civic_other_070.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0196",
+      "image_a": "civic_other_066.jpg",
+      "image_b": "civic_other_066.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0197",
+      "image_a": "civic_other_066.jpg",
+      "image_b": "trans_civic_other_066.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0198",
+      "image_a": "civic_other_066.jpg",
+      "image_b": "civic_roads_001.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0199",
+      "image_a": "civic_other_067.jpg",
+      "image_b": "civic_other_067.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0200",
+      "image_a": "civic_other_067.jpg",
+      "image_b": "trans_civic_other_067.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0201",
+      "image_a": "civic_other_067.jpg",
+      "image_b": "civic_roads_002.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0202",
+      "image_a": "civic_other_068.jpg",
+      "image_b": "civic_other_068.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0203",
+      "image_a": "civic_other_068.jpg",
+      "image_b": "trans_civic_other_068.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0204",
+      "image_a": "civic_other_068.jpg",
+      "image_b": "civic_roads_003.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0205",
+      "image_a": "civic_other_069.jpg",
+      "image_b": "civic_other_069.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0206",
+      "image_a": "civic_other_069.jpg",
+      "image_b": "trans_civic_other_069.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0207",
+      "image_a": "civic_other_069.jpg",
+      "image_b": "civic_roads_004.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    },
+    {
+      "pair_id": "PAIR_0208",
+      "image_a": "civic_other_070.jpg",
+      "image_b": "civic_other_070.jpg",
+      "relationship": "EXACT_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "NONE"
+    },
+    {
+      "pair_id": "PAIR_0209",
+      "image_a": "civic_other_070.jpg",
+      "image_b": "trans_civic_other_070.jpg",
+      "relationship": "NEAR_DUPLICATE",
+      "is_duplicate": 1,
+      "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+    },
+    {
+      "pair_id": "PAIR_0210",
+      "image_a": "civic_other_070.jpg",
+      "image_b": "civic_roads_005.jpg",
+      "relationship": "NON_DUPLICATE",
+      "is_duplicate": 0,
+      "transformation": "DIFFERENT_DEFECT"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" style="background:#ffffff; font-family: sans-serif;">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="400" y="35" text-anchor="middle" font-size="18" font-weight="bold" fill="#0f172a">Threshold Optimization Curve on DEV Split (F1 vs False Merge Rate)</text>
+<line x1="80" y1="370" x2="750" y2="370" stroke="#cbd5e1" stroke-width="2"/>
+<line x1="80" y1="70" x2="80" y2="370" stroke="#cbd5e1" stroke-width="2"/>
+<line x1="75" y1="370.0" x2="750" y2="370.0" stroke="#f1f5f9" stroke-width="1"/>
+<text x="65" y="374.0" text-anchor="end" font-size="12" fill="#64748b">0%</text>
+<line x1="75" y1="310.0" x2="750" y2="310.0" stroke="#f1f5f9" stroke-width="1"/>
+<text x="65" y="314.0" text-anchor="end" font-size="12" fill="#64748b">20%</text>
+<line x1="75" y1="250.0" x2="750" y2="250.0" stroke="#f1f5f9" stroke-width="1"/>
+<text x="65" y="254.0" text-anchor="end" font-size="12" fill="#64748b">40%</text>
+<line x1="75" y1="190.0" x2="750" y2="190.0" stroke="#f1f5f9" stroke-width="1"/>
+<text x="65" y="194.0" text-anchor="end" font-size="12" fill="#64748b">60%</text>
+<line x1="75" y1="130.0" x2="750" y2="130.0" stroke="#f1f5f9" stroke-width="1"/>
+<text x="65" y="134.0" text-anchor="end" font-size="12" fill="#64748b">80%</text>
+<line x1="75" y1="70.0" x2="750" y2="70.0" stroke="#f1f5f9" stroke-width="1"/>
+<text x="65" y="74.0" text-anchor="end" font-size="12" fill="#64748b">100%</text>
+<text x="100" y="390" text-anchor="middle" font-size="11" fill="#475569">0.50</text>
+<text x="175" y="390" text-anchor="middle" font-size="11" fill="#475569">0.55</text>
+<text x="250" y="390" text-anchor="middle" font-size="11" fill="#475569">0.60</text>
+<text x="325" y="390" text-anchor="middle" font-size="11" fill="#475569">0.65</text>
+<text x="400" y="390" text-anchor="middle" font-size="11" fill="#475569">0.70</text>
+<text x="475" y="390" text-anchor="middle" font-size="11" fill="#475569">0.75</text>
+<text x="550" y="390" text-anchor="middle" font-size="11" fill="#475569">0.80</text>
+<text x="625" y="390" text-anchor="middle" font-size="11" fill="#475569">0.85</text>
+<text x="700" y="390" text-anchor="middle" font-size="11" fill="#475569">0.90</text>
+<polyline points="100.0,93.1 175.0,93.1 250.0,93.1 325.0,116.8 400.0,116.8 475.0,153.8 550.0,153.8 625.0,192.3 700.0,192.3" fill="none" stroke="#2563eb" stroke-width="3"/>
+<polyline points="100.0,370.0 175.0,370.0 250.0,370.0 325.0,370.0 400.0,370.0 475.0,370.0 550.0,370.0 625.0,370.0 700.0,370.0" fill="none" stroke="#dc2626" stroke-width="3" stroke-dasharray="6,6"/>
+<circle cx="100.0" cy="93.1" r="5" fill="#2563eb"/>
+<circle cx="175.0" cy="93.1" r="5" fill="#2563eb"/>
+<circle cx="250.0" cy="93.1" r="5" fill="#2563eb"/>
+<circle cx="325.0" cy="116.8" r="5" fill="#2563eb"/>
+<circle cx="400.0" cy="116.8" r="5" fill="#2563eb"/>
+<circle cx="475.0" cy="153.8" r="5" fill="#2563eb"/>
+<circle cx="550.0" cy="153.8" r="5" fill="#2563eb"/>
+<circle cx="625.0" cy="192.3" r="5" fill="#2563eb"/>
+<circle cx="700.0" cy="192.3" r="5" fill="#2563eb"/>
+<circle cx="100" cy="93.07" r="9" fill="none" stroke="#16a34a" stroke-width="3"/>
+<text x="100" y="70" text-anchor="middle" font-size="12" font-weight="bold" fill="#16a34a">Optimal (0.50)</text>
+<text x="415" y="420" text-anchor="middle" font-size="13" font-weight="bold" fill="#334155">Decision Threshold Score</text>

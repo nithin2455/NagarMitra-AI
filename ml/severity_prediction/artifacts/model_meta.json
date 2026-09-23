@@ -1,0 +1,21 @@
+{
+  "model_type": "RandomForestClassifier",
+  "model_version": "1.0.0-rf-component4",
+  "classes": [
+    "LOW",
+    "MEDIUM",
+    "HIGH",
+    "CRITICAL"
+  ],
+  "hyperparameters": {
+    "n_estimators": 100,
+    "max_depth": 8,
+    "min_samples_split": 5,
+    "min_samples_leaf": 2,
+    "class_weight": "balanced",
+    "random_state": 42,
+    "n_jobs": -1
+  },
+  "training_timestamp": "2026-09-08T12:41:11.587711",
+  "random_state": 42
+}

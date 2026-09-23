@@ -1,0 +1,37 @@
+[
+  {
+    "Feature Subset": "A. Text Only",
+    "Accuracy": 0.619,
+    "Recall": 0.6261,
+    "F1": 0.7129,
+    "ROC-AUC": 0.6489
+  },
+  {
+    "Feature Subset": "B. Structured Only (Temporal/Dept)",
+    "Accuracy": 0.7937,
+    "Recall": 0.7731,
+    "F1": 0.8499,
+    "ROC-AUC": 0.8901
+  },
+  {
+    "Feature Subset": "C. Spatial Only (Hotspot/Coords)",
+    "Accuracy": 0.5587,
+    "Recall": 0.4769,
+    "F1": 0.6202,
+    "ROC-AUC": 0.647
+  },
+  {
+    "Feature Subset": "D. Severity Only (Comp 4 Predict)",
+    "Accuracy": 0.6127,
+    "Recall": 0.6303,
+    "F1": 0.7109,
+    "ROC-AUC": 0.6073
+  },
+  {
+    "Feature Subset": "E. Full Integrated Multimodal (Ours)",
+    "Accuracy": 0.8397,
+    "Recall": 0.8214,
+    "F1": 0.8856,
+    "ROC-AUC": 0.9199
+  }
+]

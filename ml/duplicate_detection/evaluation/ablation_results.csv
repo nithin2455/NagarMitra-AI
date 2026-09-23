@@ -1,0 +1,8 @@
+experiment_id,method,weights,accuracy,precision,recall,f1_score,fpr,fnr,false_merge_rate,tp,tn,fp,fn
+EXP_A,Text Only,"{""text"": 1.0, ""location"": 0.0, ""image"": 0.0}",0.68,1.0,0.36,0.5294,0.0,0.64,0.0,90,250,0,160
+EXP_B,Location Only,"{""text"": 0.0, ""location"": 1.0, ""image"": 0.0}",0.92,1.0,0.84,0.913,0.0,0.16,0.0,210,250,0,40
+EXP_C,Image Only,"{""text"": 0.0, ""location"": 0.0, ""image"": 1.0}",0.68,1.0,0.36,0.5294,0.0,0.64,0.0,90,250,0,160
+EXP_D,Text + Location,"{""text"": 0.45, ""location"": 0.55, ""image"": 0.0}",0.76,1.0,0.52,0.6842,0.0,0.48,0.0,130,250,0,120
+EXP_E,Text + Image,"{""text"": 0.55, ""location"": 0.0, ""image"": 0.45}",0.68,1.0,0.36,0.5294,0.0,0.64,0.0,90,250,0,160
+EXP_F,Location + Image,"{""text"": 0.0, ""location"": 0.6, ""image"": 0.4}",0.92,1.0,0.84,0.913,0.0,0.16,0.0,210,250,0,40
+EXP_G,Text + Location + Image (Multimodal Fusion),"{""text"": 0.3, ""location"": 0.45, ""image"": 0.25}",0.76,1.0,0.52,0.6842,0.0,0.48,0.0,130,250,0,120

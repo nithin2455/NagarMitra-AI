@@ -1,0 +1,8 @@
+# CivicPulse AI/ML Research Architecture Requirements
+# Python Version: 3.12.14
+numpy>=2.0.0
+pandas>=2.2.0
+scipy>=1.10.0
+scikit-learn>=1.4.0
+pillow>=10.0.0
+joblib>=1.4.0

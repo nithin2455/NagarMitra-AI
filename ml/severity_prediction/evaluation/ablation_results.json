@@ -1,0 +1,47 @@
+[
+  {
+    "experiment": "A. Text Features Only",
+    "subset": "TEXT_ONLY",
+    "accuracy": 0.9587301587301588,
+    "macro_f1": 0.9592435984033991,
+    "weighted_f1": 0.9593264505340042,
+    "critical_recall": 1.0,
+    "high_recall": 0.89171974522293
+  },
+  {
+    "experiment": "B. Structured Metadata Only",
+    "subset": "STRUCTURED_ONLY",
+    "accuracy": 0.9253968253968254,
+    "macro_f1": 0.9246712705311853,
+    "weighted_f1": 0.9246902700505313,
+    "critical_recall": 0.9367088607594937,
+    "high_recall": 0.9936305732484076
+  },
+  {
+    "experiment": "C. Spatial & Operational Density Only",
+    "subset": "SPATIAL_TEMPORAL_ONLY",
+    "accuracy": 0.5015873015873016,
+    "macro_f1": 0.49789314315288535,
+    "weighted_f1": 0.4977565126624289,
+    "critical_recall": 0.41139240506329117,
+    "high_recall": 0.5923566878980892
+  },
+  {
+    "experiment": "D. Text + Structured Features",
+    "subset": "NO_COMPONENTS",
+    "accuracy": 0.9952380952380953,
+    "macro_f1": 0.9952379032664456,
+    "weighted_f1": 0.9952378072806208,
+    "critical_recall": 1.0,
+    "high_recall": 1.0
+  },
+  {
+    "experiment": "E. Full Feature Set (Text + Struct + Comp 2 & 3)",
+    "subset": "FULL",
+    "accuracy": 1.0,
+    "macro_f1": 1.0,
+    "weighted_f1": 1.0,
+    "critical_recall": 1.0,
+    "high_recall": 1.0
+  }
+]

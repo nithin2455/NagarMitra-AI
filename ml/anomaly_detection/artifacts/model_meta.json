@@ -1,0 +1,13 @@
+{
+  "algorithm": "IsolationForest",
+  "n_estimators": 200,
+  "contamination": 0.05,
+  "train_samples": 2940,
+  "val_samples": 630,
+  "training_time_sec": 0.3422,
+  "val_anomaly_rate": 0.0587,
+  "threshold_low_medium": 0.5,
+  "threshold_medium_high": 0.75,
+  "model_version": "6.0.0-iforest",
+  "random_seed": 42
+}

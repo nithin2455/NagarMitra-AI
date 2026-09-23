@@ -1,0 +1,6 @@
+experiment,sample_ratio,perturbation_meters,discovered_clusters,baseline_clusters,jaccard_stability_index,average_centroid_drift_meters,noise_percentage
+Full Baseline Dataset (100%),1.0,0.0,12,12,0.0,0.0,7.0
+Subsample 90% Data,0.9,0.0,12,12,1.0,3.71,6.67
+Subsample 80% Data,0.8,0.0,12,12,1.0,6.34,7.88
+GPS Perturbation (+/- 10m),1.0,10.0,12,12,1.0,0.46,7.0
+GPS Perturbation (+/- 20m),1.0,20.0,12,12,1.0,1.06,7.0

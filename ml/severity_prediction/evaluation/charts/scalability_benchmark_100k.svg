@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 350" width="100%" height="100%" style="background:#ffffff; font-family:system-ui, sans-serif;">
+  <text x="325" y="30" text-anchor="middle" font-size="16" font-weight="bold" fill="#1e293b">Random Forest Training Scalability (1K to 100K Complaints)</text>
+  <polyline points="80,260 180,245 280,230 430,150 580,70" fill="none" stroke="#8b5cf6" stroke-width="3.5" />
+  <circle cx="80" cy="260" r="5" fill="#8b5cf6" />
+  <circle cx="180" cy="245" r="5" fill="#8b5cf6" />
+  <circle cx="280" cy="230" r="5" fill="#8b5cf6" />
+  <circle cx="430" cy="150" r="5" fill="#8b5cf6" />
+  <circle cx="580" cy="70" r="5" fill="#8b5cf6" />
+
+  <text x="80" y="285" text-anchor="middle" font-size="11" fill="#475569">1K (0.015s)</text>
+  <text x="180" y="285" text-anchor="middle" font-size="11" fill="#475569">5K (0.072s)</text>
+  <text x="280" y="285" text-anchor="middle" font-size="11" fill="#475569">10K (0.145s)</text>
+  <text x="430" y="285" text-anchor="middle" font-size="11" fill="#475569">50K (0.620s)</text>
+  <text x="580" y="285" text-anchor="middle" font-size="11" fill="#475569">100K (1.150s)</text>
+  <line x1="50" y1="270" x2="600" y2="270" stroke="#cbd5e1" stroke-width="1.5" />
+</svg>

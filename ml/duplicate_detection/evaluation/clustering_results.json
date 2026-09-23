@@ -1,0 +1,38 @@
+{
+  "group_size_2": {
+    "group_size": 2,
+    "total_duplicate_reports": 10,
+    "correct_canonical_links": 7,
+    "master_canonicalization_accuracy": 0.7,
+    "pairwise_precision": 1.0,
+    "pairwise_recall": 0.7,
+    "pairwise_f1": 0.8235
+  },
+  "group_size_5": {
+    "group_size": 5,
+    "total_duplicate_reports": 40,
+    "correct_canonical_links": 35,
+    "master_canonicalization_accuracy": 0.875,
+    "pairwise_precision": 1.0,
+    "pairwise_recall": 0.875,
+    "pairwise_f1": 0.9333
+  },
+  "group_size_10": {
+    "group_size": 10,
+    "total_duplicate_reports": 90,
+    "correct_canonical_links": 88,
+    "master_canonicalization_accuracy": 0.9778,
+    "pairwise_precision": 1.0,
+    "pairwise_recall": 0.9778,
+    "pairwise_f1": 0.9888
+  },
+  "group_size_50": {
+    "group_size": 50,
+    "total_duplicate_reports": 490,
+    "correct_canonical_links": 486,
+    "master_canonicalization_accuracy": 0.9918,
+    "pairwise_precision": 1.0,
+    "pairwise_recall": 0.9918,
+    "pairwise_f1": 0.9959
+  }
+}

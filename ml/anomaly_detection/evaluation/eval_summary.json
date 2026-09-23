@@ -1,0 +1,162 @@
+{
+  "operational_test_evaluation": {
+    "test_samples": 630,
+    "detected_anomalies": 36,
+    "anomaly_rate": 0.0571,
+    "mean_score": 0.4022
+  },
+  "baseline_comparison": [
+    {
+      "Method": "Historical Mean + 3SD Spike Detector",
+      "Threshold Source": "Train Set Mean+3SD",
+      "Detected Anomalies": 11,
+      "Detection Rate": "1.75%"
+    },
+    {
+      "Method": "Rolling Z-Score (Z >= 3.0)",
+      "Threshold Source": "Train Set StdDev",
+      "Detected Anomalies": 11,
+      "Detection Rate": "1.75%"
+    },
+    {
+      "Method": "Isolation Forest (Multimodal Ours)",
+      "Threshold Source": "Contamination 0.05",
+      "Detected Anomalies": 36,
+      "Detection Rate": "5.71%"
+    }
+  ],
+  "controlled_synthetic_benchmark": {
+    "accuracy": 0.87,
+    "precision": 0.9405,
+    "recall": 0.79,
+    "f1": 0.8587,
+    "roc_auc": 0.9563,
+    "pr_auc": 0.9433
+  },
+  "subsampling_stability": {
+    "mean_jaccard_80": 0.7269,
+    "mean_jaccard_90": 0.8745
+  },
+  "top_10_anomalies": [
+    {
+      "WindowID": "WIN-4958",
+      "Date": "2025-05-22",
+      "Dept": "DEPT_SANITATION",
+      "RawVol": 30,
+      "DupRatio": 0.3,
+      "Hotspot": 11.25,
+      "Score": 0.6382,
+      "Level": "MEDIUM",
+      "Pattern": "VOLUME_SPIKE",
+      "Indicators": "Complaint volume is 4.3x historical normal (observed 30 vs baseline 6.9)"
+    },
+    {
+      "WindowID": "WIN-4560",
+      "Date": "2025-05-08",
+      "Dept": "DEPT_ROADS",
+      "RawVol": 18,
+      "DupRatio": 0.2222,
+      "Hotspot": 26.91,
+      "Score": 0.6222,
+      "Level": "MEDIUM",
+      "Pattern": "NORMAL_PATTERN",
+      "Indicators": "Complaint volume is 2.6x historical normal (observed 18 vs baseline 6.9)"
+    },
+    {
+      "WindowID": "WIN-4756",
+      "Date": "2025-05-15",
+      "Dept": "DEPT_ROADS",
+      "RawVol": 17,
+      "DupRatio": 0.5294,
+      "Hotspot": 19.06,
+      "Score": 0.6128,
+      "Level": "MEDIUM",
+      "Pattern": "NORMAL_PATTERN",
+      "Indicators": "Complaint volume is 2.4x historical normal (observed 17 vs baseline 6.9)"
+    },
+    {
+      "WindowID": "WIN-5155",
+      "Date": "2025-05-29",
+      "Dept": "DEPT_SANITATION",
+      "RawVol": 23,
+      "DupRatio": 0.6087,
+      "Hotspot": 48.73,
+      "Score": 0.6063,
+      "Level": "MEDIUM",
+      "Pattern": "VOLUME_SPIKE",
+      "Indicators": "Complaint volume is 3.3x historical normal (observed 23 vs baseline 6.9)"
+    },
+    {
+      "WindowID": "WIN-4726",
+      "Date": "2025-05-14",
+      "Dept": "DEPT_ROADS",
+      "RawVol": 24,
+      "DupRatio": 0.375,
+      "Hotspot": 4.52,
+      "Score": 0.6059,
+      "Level": "MEDIUM",
+      "Pattern": "VOLUME_SPIKE",
+      "Indicators": "Complaint volume is 3.5x historical normal (observed 24 vs baseline 6.9)"
+    },
+    {
+      "WindowID": "WIN-4978",
+      "Date": "2025-05-23",
+      "Dept": "DEPT_ROADS",
+      "RawVol": 21,
+      "DupRatio": 0.1905,
+      "Hotspot": 15.2,
+      "Score": 0.6026,
+      "Level": "MEDIUM",
+      "Pattern": "VOLUME_SPIKE",
+      "Indicators": "Complaint volume is 3.0x historical normal (observed 21 vs baseline 6.9)"
+    },
+    {
+      "WindowID": "WIN-4672",
+      "Date": "2025-05-12",
+      "Dept": "DEPT_ROADS",
+      "RawVol": 16,
+      "DupRatio": 0.4375,
+      "Hotspot": 8.34,
+      "Score": 0.5924,
+      "Level": "MEDIUM",
+      "Pattern": "NORMAL_PATTERN",
+      "Indicators": "Complaint volume is 2.3x historical normal (observed 16 vs baseline 6.9); Elevated SLA breach probability (63% high-risk SLA complaints)"
+    },
+    {
+      "WindowID": "WIN-4960",
+      "Date": "2025-05-22",
+      "Dept": "DEPT_SANITATION",
+      "RawVol": 19,
+      "DupRatio": 0.2632,
+      "Hotspot": 27.65,
+      "Score": 0.5794,
+      "Level": "MEDIUM",
+      "Pattern": "NORMAL_PATTERN",
+      "Indicators": "Complaint volume is 2.7x historical normal (observed 19 vs baseline 6.9)"
+    },
+    {
+      "WindowID": "WIN-5038",
+      "Date": "2025-05-25",
+      "Dept": "DEPT_DRAINAGE",
+      "RawVol": 13,
+      "DupRatio": 0.3077,
+      "Hotspot": 49.58,
+      "Score": 0.5696,
+      "Level": "MEDIUM",
+      "Pattern": "SLA_RISK_SPIKE",
+      "Indicators": "Elevated SLA breach probability (73% high-risk SLA complaints)"
+    },
+    {
+      "WindowID": "WIN-4894",
+      "Date": "2025-05-20",
+      "Dept": "DEPT_ROADS",
+      "RawVol": 26,
+      "DupRatio": 0.4615,
+      "Hotspot": 34.14,
+      "Score": 0.5587,
+      "Level": "MEDIUM",
+      "Pattern": "VOLUME_SPIKE",
+      "Indicators": "Complaint volume is 3.7x historical normal (observed 26 vs baseline 6.9)"
+    }
+  ]
+}

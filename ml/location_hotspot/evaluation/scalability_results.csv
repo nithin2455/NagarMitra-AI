@@ -1,0 +1,6 @@
+workload_size,valid_complaints,total_clusters,noise_count,noise_percentage,execution_time_ms
+1000,1000,12,70,7.0,29.019
+5000,5000,187,2802,56.04,192.086
+10000,10000,405,1367,13.67,1444.779
+50000,50000,1,0,0.0,445.789
+100000,100000,1,0,0.0,1108.511

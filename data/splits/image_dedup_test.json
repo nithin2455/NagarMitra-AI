@@ -1,0 +1,258 @@
+[
+  {
+    "pair_id": "PAIR_0197",
+    "image_a": "civic_other_066.jpg",
+    "image_b": "trans_civic_other_066.jpg",
+    "relationship": "NEAR_DUPLICATE",
+    "is_duplicate": 1,
+    "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+  },
+  {
+    "pair_id": "PAIR_0202",
+    "image_a": "civic_other_068.jpg",
+    "image_b": "civic_other_068.jpg",
+    "relationship": "EXACT_DUPLICATE",
+    "is_duplicate": 1,
+    "transformation": "NONE"
+  },
+  {
+    "pair_id": "PAIR_0179",
+    "image_a": "civic_infrastructure_060.jpg",
+    "image_b": "trans_civic_infrastructure_060.jpg",
+    "relationship": "NEAR_DUPLICATE",
+    "is_duplicate": 1,
+    "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+  },
+  {
+    "pair_id": "PAIR_0177",
+    "image_a": "civic_infrastructure_059.jpg",
+    "image_b": "civic_other_064.jpg",
+    "relationship": "NON_DUPLICATE",
+    "is_duplicate": 0,
+    "transformation": "DIFFERENT_DEFECT"
+  },
+  {
+    "pair_id": "PAIR_0034",
+    "image_a": "civic_drainage_012.jpg",
+    "image_b": "civic_drainage_012.jpg",
+    "relationship": "EXACT_DUPLICATE",
+    "is_duplicate": 1,
+    "transformation": "NONE"
+  },
+  {
+    "pair_id": "PAIR_0174",
+    "image_a": "civic_infrastructure_058.jpg",
+    "image_b": "civic_other_063.jpg",
+    "relationship": "NON_DUPLICATE",
+    "is_duplicate": 0,
+    "transformation": "DIFFERENT_DEFECT"
+  },
+  {
+    "pair_id": "PAIR_0010",
+    "image_a": "civic_roads_004.jpg",
+    "image_b": "civic_roads_004.jpg",
+    "relationship": "EXACT_DUPLICATE",
+    "is_duplicate": 1,
+    "transformation": "NONE"
+  },
+  {
+    "pair_id": "PAIR_0091",
+    "image_a": "civic_water_031.jpg",
+    "image_b": "civic_water_031.jpg",
+    "relationship": "EXACT_DUPLICATE",
+    "is_duplicate": 1,
+    "transformation": "NONE"
+  },
+  {
+    "pair_id": "PAIR_0029",
+    "image_a": "civic_roads_010.jpg",
+    "image_b": "trans_civic_roads_010.jpg",
+    "relationship": "NEAR_DUPLICATE",
+    "is_duplicate": 1,
+    "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+  },
+  {
+    "pair_id": "PAIR_0090",
+    "image_a": "civic_garbage_030.jpg",
+    "image_b": "civic_water_035.jpg",
+    "relationship": "NON_DUPLICATE",
+    "is_duplicate": 0,
+    "transformation": "DIFFERENT_DEFECT"
+  },
+  {
+    "pair_id": "PAIR_0195",
+    "image_a": "civic_other_065.jpg",
+    "image_b": "civic_other_070.jpg",
+    "relationship": "NON_DUPLICATE",
+    "is_duplicate": 0,
+    "transformation": "DIFFERENT_DEFECT"
+  },
+  {
+    "pair_id": "PAIR_0086",
+    "image_a": "civic_garbage_029.jpg",
+    "image_b": "trans_civic_garbage_029.jpg",
+    "relationship": "NEAR_DUPLICATE",
+    "is_duplicate": 1,
+    "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+  },
+  {
+    "pair_id": "PAIR_0036",
+    "image_a": "civic_drainage_012.jpg",
+    "image_b": "civic_drainage_017.jpg",
+    "relationship": "NON_DUPLICATE",
+    "is_duplicate": 0,
+    "transformation": "DIFFERENT_DEFECT"
+  },
+  {
+    "pair_id": "PAIR_0108",
+    "image_a": "civic_water_036.jpg",
+    "image_b": "civic_streetlights_041.jpg",
+    "relationship": "NON_DUPLICATE",
+    "is_duplicate": 0,
+    "transformation": "DIFFERENT_DEFECT"
+  },
+  {
+    "pair_id": "PAIR_0017",
+    "image_a": "civic_roads_006.jpg",
+    "image_b": "trans_civic_roads_006.jpg",
+    "relationship": "NEAR_DUPLICATE",
+    "is_duplicate": 1,
+    "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+  },
+  {
+    "pair_id": "PAIR_0008",
+    "image_a": "civic_roads_003.jpg",
+    "image_b": "trans_civic_roads_003.jpg",
+    "relationship": "NEAR_DUPLICATE",
+    "is_duplicate": 1,
+    "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+  },
+  {
+    "pair_id": "PAIR_0144",
+    "image_a": "civic_streetlights_048.jpg",
+    "image_b": "civic_infrastructure_053.jpg",
+    "relationship": "NON_DUPLICATE",
+    "is_duplicate": 0,
+    "transformation": "DIFFERENT_DEFECT"
+  },
+  {
+    "pair_id": "PAIR_0062",
+    "image_a": "civic_garbage_021.jpg",
+    "image_b": "trans_civic_garbage_021.jpg",
+    "relationship": "NEAR_DUPLICATE",
+    "is_duplicate": 1,
+    "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+  },
+  {
+    "pair_id": "PAIR_0002",
+    "image_a": "civic_roads_001.jpg",
+    "image_b": "trans_civic_roads_001.jpg",
+    "relationship": "NEAR_DUPLICATE",
+    "is_duplicate": 1,
+    "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+  },
+  {
+    "pair_id": "PAIR_0176",
+    "image_a": "civic_infrastructure_059.jpg",
+    "image_b": "trans_civic_infrastructure_059.jpg",
+    "relationship": "NEAR_DUPLICATE",
+    "is_duplicate": 1,
+    "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+  },
+  {
+    "pair_id": "PAIR_0161",
+    "image_a": "civic_infrastructure_054.jpg",
+    "image_b": "trans_civic_infrastructure_054.jpg",
+    "relationship": "NEAR_DUPLICATE",
+    "is_duplicate": 1,
+    "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+  },
+  {
+    "pair_id": "PAIR_0171",
+    "image_a": "civic_infrastructure_057.jpg",
+    "image_b": "civic_other_062.jpg",
+    "relationship": "NON_DUPLICATE",
+    "is_duplicate": 0,
+    "transformation": "DIFFERENT_DEFECT"
+  },
+  {
+    "pair_id": "PAIR_0089",
+    "image_a": "civic_garbage_030.jpg",
+    "image_b": "trans_civic_garbage_030.jpg",
+    "relationship": "NEAR_DUPLICATE",
+    "is_duplicate": 1,
+    "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+  },
+  {
+    "pair_id": "PAIR_0163",
+    "image_a": "civic_infrastructure_055.jpg",
+    "image_b": "civic_infrastructure_055.jpg",
+    "relationship": "EXACT_DUPLICATE",
+    "is_duplicate": 1,
+    "transformation": "NONE"
+  },
+  {
+    "pair_id": "PAIR_0070",
+    "image_a": "civic_garbage_024.jpg",
+    "image_b": "civic_garbage_024.jpg",
+    "relationship": "EXACT_DUPLICATE",
+    "is_duplicate": 1,
+    "transformation": "NONE"
+  },
+  {
+    "pair_id": "PAIR_0081",
+    "image_a": "civic_garbage_027.jpg",
+    "image_b": "civic_water_032.jpg",
+    "relationship": "NON_DUPLICATE",
+    "is_duplicate": 0,
+    "transformation": "DIFFERENT_DEFECT"
+  },
+  {
+    "pair_id": "PAIR_0152",
+    "image_a": "civic_infrastructure_051.jpg",
+    "image_b": "trans_civic_infrastructure_051.jpg",
+    "relationship": "NEAR_DUPLICATE",
+    "is_duplicate": 1,
+    "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+  },
+  {
+    "pair_id": "PAIR_0037",
+    "image_a": "civic_drainage_013.jpg",
+    "image_b": "civic_drainage_013.jpg",
+    "relationship": "EXACT_DUPLICATE",
+    "is_duplicate": 1,
+    "transformation": "NONE"
+  },
+  {
+    "pair_id": "PAIR_0126",
+    "image_a": "civic_streetlights_042.jpg",
+    "image_b": "civic_streetlights_047.jpg",
+    "relationship": "NON_DUPLICATE",
+    "is_duplicate": 0,
+    "transformation": "DIFFERENT_DEFECT"
+  },
+  {
+    "pair_id": "PAIR_0190",
+    "image_a": "civic_other_064.jpg",
+    "image_b": "civic_other_064.jpg",
+    "relationship": "EXACT_DUPLICATE",
+    "is_duplicate": 1,
+    "transformation": "NONE"
+  },
+  {
+    "pair_id": "PAIR_0059",
+    "image_a": "civic_drainage_020.jpg",
+    "image_b": "trans_civic_drainage_020.jpg",
+    "relationship": "NEAR_DUPLICATE",
+    "is_duplicate": 1,
+    "transformation": "BRIGHTNESS_BOOST_AND_ROTATION_3DEG"
+  },
+  {
+    "pair_id": "PAIR_0115",
+    "image_a": "civic_water_039.jpg",
+    "image_b": "civic_water_039.jpg",
+    "relationship": "EXACT_DUPLICATE",
+    "is_duplicate": 1,
+    "transformation": "NONE"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "raw_report_count": 6.9405,
+  "master_issue_count": 3.7299,
+  "duplicate_ratio": 0.4101,
+  "reports_per_master_issue": 1.8878,
+  "hotspot_score": 28.2369,
+  "local_density": 0.2824,
+  "cluster_size": 11.3031,
+  "critical_count": 0.6861,
+  "high_count": 1.9844,
+  "critical_ratio": 0.1055,
+  "high_sla_risk_count": 1.435,
+  "high_sla_risk_ratio": 0.2206,
+  "complaints_last_24h": 41.3483,
+  "complaints_last_7d": 277.1381,
+  "rate_of_change": -0.0145,
+  "hour": 12.0,
+  "day_of_week": 3.0,
+  "is_weekend": 0.2857
+}

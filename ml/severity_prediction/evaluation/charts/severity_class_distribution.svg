@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 350" width="100%" height="100%" style="background:#ffffff; font-family:system-ui, sans-serif;">
+  <text x="300" y="30" text-anchor="middle" font-size="16" font-weight="bold" fill="#1e293b">CivicPulse Severity Dataset Label Distribution (N = 5,250)</text>
+  <line x1="50" y1="280" x2="550" y2="280" stroke="#cbd5e1" stroke-width="1.5" />
+  
+  <!-- LOW -->
+  <rect x="90" y="180" width="80" height="100" fill="#94a3b8" rx="4" />
+  <text x="130" y="170" text-anchor="middle" font-size="12" font-weight="bold" fill="#475569">750 (14.3%)</text>
+  <text x="130" y="302" text-anchor="middle" font-size="13" font-weight="bold" fill="#1e293b">LOW</text>
+
+  <!-- MEDIUM -->
+  <rect x="210" y="80" width="80" height="200" fill="#3b82f6" rx="4" />
+  <text x="250" y="70" text-anchor="middle" font-size="12" font-weight="bold" fill="#1d4ed8">1,500 (28.6%)</text>
+  <text x="250" y="302" text-anchor="middle" font-size="13" font-weight="bold" fill="#1e293b">MEDIUM</text>
+
+  <!-- HIGH -->
+  <rect x="330" y="80" width="80" height="200" fill="#f59e0b" rx="4" />
+  <text x="370" y="70" text-anchor="middle" font-size="12" font-weight="bold" fill="#b45309">1,500 (28.6%)</text>
+  <text x="370" y="302" text-anchor="middle" font-size="13" font-weight="bold" fill="#1e293b">HIGH</text>
+
+  <!-- CRITICAL -->
+  <rect x="450" y="80" width="80" height="200" fill="#ef4444" rx="4" />
+  <text x="490" y="70" text-anchor="middle" font-size="12" font-weight="bold" fill="#b91c1c">1,500 (28.6%)</text>
+  <text x="490" y="302" text-anchor="middle" font-size="13" font-weight="bold" fill="#1e293b">CRITICAL</text>
+</svg>

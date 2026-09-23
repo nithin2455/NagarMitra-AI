@@ -1,0 +1,6 @@
+workload_size,candidates_evaluated,candidate_reduction_rate,retrieval_time_ms,decision_time_ms,total_processing_time_ms
+1000,2,99.8,0.037,2.138,2.175
+5000,7,99.86,0.531,2.406,2.937
+10000,24,99.76,1.16,7.082,8.242
+50000,96,99.81,3.102,27.107,30.209
+100000,235,99.77,9.782,66.887,76.669

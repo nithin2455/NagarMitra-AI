@@ -1,0 +1,330 @@
+{
+  "manual_accuracy": 1.0,
+  "total_examples": 19,
+  "correct_examples": 19,
+  "results": [
+    {
+      "input": "Several street tiles and paver blocks have collapsed near the main college bus stop creating severe tripping hazard.",
+      "expected_category": "roads",
+      "predicted_category": "roads",
+      "confidence": 0.437,
+      "confidence_pct": "43.7%",
+      "is_correct": true,
+      "all_probs": {
+        "drainage": 0.0699,
+        "garbage": 0.1117,
+        "infrastructure": 0.0977,
+        "other": 0.0732,
+        "roads": 0.437,
+        "streetlights": 0.131,
+        "water": 0.0796
+      }
+    },
+    {
+      "input": "Deep crater formed on the asphalt near the railway gate, heavy vehicles are getting stuck during rain.",
+      "expected_category": "roads",
+      "predicted_category": "roads",
+      "confidence": 0.5161,
+      "confidence_pct": "51.6%",
+      "is_correct": true,
+      "all_probs": {
+        "drainage": 0.063,
+        "garbage": 0.0538,
+        "infrastructure": 0.0904,
+        "other": 0.1017,
+        "roads": 0.5161,
+        "streetlights": 0.1366,
+        "water": 0.0384
+      }
+    },
+    {
+      "input": "The main road surface has completely peeled off leaving sharp gravel stones that puncture bike tires.",
+      "expected_category": "roads",
+      "predicted_category": "roads",
+      "confidence": 0.6925,
+      "confidence_pct": "69.2%",
+      "is_correct": true,
+      "all_probs": {
+        "drainage": 0.0358,
+        "garbage": 0.0408,
+        "infrastructure": 0.0441,
+        "other": 0.058,
+        "roads": 0.6925,
+        "streetlights": 0.0882,
+        "water": 0.0407
+      }
+    },
+    {
+      "input": "Black stinking gutter water is overflowing from the choked drain channel right into our apartment driveway.",
+      "expected_category": "drainage",
+      "predicted_category": "drainage",
+      "confidence": 0.5229,
+      "confidence_pct": "52.3%",
+      "is_correct": true,
+      "all_probs": {
+        "drainage": 0.5229,
+        "garbage": 0.1847,
+        "infrastructure": 0.0305,
+        "other": 0.0429,
+        "roads": 0.0325,
+        "streetlights": 0.0414,
+        "water": 0.1451
+      }
+    },
+    {
+      "input": "The storm water drain pipe is blocked with plastic bottles causing wastewater to pool in front of shops.",
+      "expected_category": "drainage",
+      "predicted_category": "drainage",
+      "confidence": 0.7484,
+      "confidence_pct": "74.8%",
+      "is_correct": true,
+      "all_probs": {
+        "drainage": 0.7484,
+        "garbage": 0.0413,
+        "infrastructure": 0.0292,
+        "other": 0.0213,
+        "roads": 0.0372,
+        "streetlights": 0.023,
+        "water": 0.0996
+      }
+    },
+    {
+      "input": "A broken manhole in our lane is spilling foul smelling sewage sludge onto the public footpath.",
+      "expected_category": "drainage",
+      "predicted_category": "drainage",
+      "confidence": 0.5036,
+      "confidence_pct": "50.4%",
+      "is_correct": true,
+      "all_probs": {
+        "drainage": 0.5036,
+        "garbage": 0.0558,
+        "infrastructure": 0.1809,
+        "other": 0.0424,
+        "roads": 0.0981,
+        "streetlights": 0.0371,
+        "water": 0.0823
+      }
+    },
+    {
+      "input": "Garbage has not been collected from our street dustbins for four consecutive days and waste is scattering.",
+      "expected_category": "garbage",
+      "predicted_category": "garbage",
+      "confidence": 0.8343,
+      "confidence_pct": "83.4%",
+      "is_correct": true,
+      "all_probs": {
+        "drainage": 0.025,
+        "garbage": 0.8343,
+        "infrastructure": 0.0154,
+        "other": 0.0352,
+        "roads": 0.0256,
+        "streetlights": 0.0277,
+        "water": 0.0368
+      }
+    },
+    {
+      "input": "Commercial food vendors are dumping rotten vegetable waste openly in the open ground behind the school.",
+      "expected_category": "garbage",
+      "predicted_category": "garbage",
+      "confidence": 0.6058,
+      "confidence_pct": "60.6%",
+      "is_correct": true,
+      "all_probs": {
+        "drainage": 0.138,
+        "garbage": 0.6058,
+        "infrastructure": 0.0465,
+        "other": 0.0462,
+        "roads": 0.0465,
+        "streetlights": 0.0729,
+        "water": 0.0441
+      }
+    },
+    {
+      "input": "Public trash cans are overflowing with plastic bags and stray dogs are pulling rubbish onto the road.",
+      "expected_category": "garbage",
+      "predicted_category": "garbage",
+      "confidence": 0.492,
+      "confidence_pct": "49.2%",
+      "is_correct": true,
+      "all_probs": {
+        "drainage": 0.1479,
+        "garbage": 0.492,
+        "infrastructure": 0.0998,
+        "other": 0.0456,
+        "roads": 0.1194,
+        "streetlights": 0.0444,
+        "water": 0.0508
+      }
+    },
+    {
+      "input": "Our neighborhood has received no municipal drinking water supply since yesterday morning.",
+      "expected_category": "water",
+      "predicted_category": "water",
+      "confidence": 0.914,
+      "confidence_pct": "91.4%",
+      "is_correct": true,
+      "all_probs": {
+        "drainage": 0.0102,
+        "garbage": 0.0111,
+        "infrastructure": 0.0127,
+        "other": 0.035,
+        "roads": 0.0078,
+        "streetlights": 0.0092,
+        "water": 0.914
+      }
+    },
+    {
+      "input": "The main underground supply pipeline cracked and fresh clean water is gushing out on 3rd Main Road.",
+      "expected_category": "water",
+      "predicted_category": "water",
+      "confidence": 0.6671,
+      "confidence_pct": "66.7%",
+      "is_correct": true,
+      "all_probs": {
+        "drainage": 0.0348,
+        "garbage": 0.0253,
+        "infrastructure": 0.0422,
+        "other": 0.0367,
+        "roads": 0.1343,
+        "streetlights": 0.0596,
+        "water": 0.6671
+      }
+    },
+    {
+      "input": "Tap water supplied to residential flats today is contaminated with yellow dirt and muddy sediment.",
+      "expected_category": "water",
+      "predicted_category": "water",
+      "confidence": 0.6779,
+      "confidence_pct": "67.8%",
+      "is_correct": true,
+      "all_probs": {
+        "drainage": 0.067,
+        "garbage": 0.0509,
+        "infrastructure": 0.0544,
+        "other": 0.0318,
+        "roads": 0.052,
+        "streetlights": 0.0659,
+        "water": 0.6779
+      }
+    },
+    {
+      "input": "All streetlights along the outer ring road are dark since last night making driving unsafe.",
+      "expected_category": "streetlights",
+      "predicted_category": "streetlights",
+      "confidence": 0.6444,
+      "confidence_pct": "64.4%",
+      "is_correct": true,
+      "all_probs": {
+        "drainage": 0.0357,
+        "garbage": 0.0892,
+        "infrastructure": 0.0322,
+        "other": 0.0556,
+        "roads": 0.1077,
+        "streetlights": 0.6444,
+        "water": 0.0352
+      }
+    },
+    {
+      "input": "An overhead electric wire snapped from the pole and is hanging low near the park gate.",
+      "expected_category": "streetlights",
+      "predicted_category": "streetlights",
+      "confidence": 0.4273,
+      "confidence_pct": "42.7%",
+      "is_correct": true,
+      "all_probs": {
+        "drainage": 0.0668,
+        "garbage": 0.0992,
+        "infrastructure": 0.1347,
+        "other": 0.0941,
+        "roads": 0.0668,
+        "streetlights": 0.4273,
+        "water": 0.1111
+      }
+    },
+    {
+      "input": "The high mast electric light at the major junction is flickering continuously and blinding commuters.",
+      "expected_category": "streetlights",
+      "predicted_category": "streetlights",
+      "confidence": 0.6336,
+      "confidence_pct": "63.4%",
+      "is_correct": true,
+      "all_probs": {
+        "drainage": 0.0457,
+        "garbage": 0.0502,
+        "infrastructure": 0.09,
+        "other": 0.0677,
+        "roads": 0.0639,
+        "streetlights": 0.6336,
+        "water": 0.0489
+      }
+    },
+    {
+      "input": "The concrete bench and fence railing inside the children park are severely cracked and broken.",
+      "expected_category": "infrastructure",
+      "predicted_category": "infrastructure",
+      "confidence": 0.6651,
+      "confidence_pct": "66.5%",
+      "is_correct": true,
+      "all_probs": {
+        "drainage": 0.0555,
+        "garbage": 0.0478,
+        "infrastructure": 0.6651,
+        "other": 0.0494,
+        "roads": 0.0522,
+        "streetlights": 0.0643,
+        "water": 0.0657
+      }
+    },
+    {
+      "input": "Plaster wall of the municipal public toilet building is peeling off and the roof metal sheet is damaged.",
+      "expected_category": "infrastructure",
+      "predicted_category": "infrastructure",
+      "confidence": 0.7916,
+      "confidence_pct": "79.2%",
+      "is_correct": true,
+      "all_probs": {
+        "drainage": 0.0345,
+        "garbage": 0.0375,
+        "infrastructure": 0.7916,
+        "other": 0.0434,
+        "roads": 0.0255,
+        "streetlights": 0.0381,
+        "water": 0.0294
+      }
+    },
+    {
+      "input": "A large pack of aggressive stray dogs is barking and chasing night commuters near the layout.",
+      "expected_category": "other",
+      "predicted_category": "other",
+      "confidence": 0.3193,
+      "confidence_pct": "31.9%",
+      "is_correct": true,
+      "all_probs": {
+        "drainage": 0.1037,
+        "garbage": 0.1528,
+        "infrastructure": 0.1503,
+        "other": 0.3193,
+        "roads": 0.0643,
+        "streetlights": 0.1417,
+        "water": 0.0679
+      }
+    },
+    {
+      "input": "Loud music is being played from unauthorized sound speakers past midnight causing severe sleep disturbance.",
+      "expected_category": "other",
+      "predicted_category": "other",
+      "confidence": 0.2617,
+      "confidence_pct": "26.2%",
+      "is_correct": true,
+      "all_probs": {
+        "drainage": 0.1052,
+        "garbage": 0.0981,
+        "infrastructure": 0.0694,
+        "other": 0.2617,
+        "roads": 0.2553,
+        "streetlights": 0.1303,
+        "water": 0.08
+      }
+    }
+  ]
+}
