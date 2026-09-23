@@ -36,8 +36,9 @@ venv/
 env/
 
 # ML model artifacts
-*.joblib
-*.pkl
+# Trained .joblib/.pkl files are intentionally tracked
+# *.joblib
+# *.pkl
 
 # Firebase / service account credentials
 serviceAccountKey.json
